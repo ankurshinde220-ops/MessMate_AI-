@@ -20,7 +20,7 @@ SAMPLE_MESSES = [
         "total_reviews": 42,
         "cuisine_tags": "Pure Veg, Maharashtrian, North Indian, Unlimited Thali",
         "amenities": "RO Water, AC Dining Room, Parcel Service, Clean Restrooms",
-        "image_urls": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=800&auto=format&fit=crop&q=80",
+        "image_urls": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Maharashtrian_Thali.jpg/960px-Maharashtrian_Thali.jpg",
         "contact_phone": "+91 98230 11223",
         "opening_hours": "7:30 AM - 10:30 PM",
         "is_verified": True

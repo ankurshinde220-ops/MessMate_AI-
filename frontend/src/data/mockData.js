@@ -10,7 +10,7 @@ export const CAMPUS_LOCATIONS = [
 // Verified Accurate Dish Image URLs (Specific to each authentic Indian dish)
 export const DISH_IMAGES = {
   // Thalis & Specialty Meals
-  thaliVeg: "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4?w=800&auto=format&fit=crop&q=80",
+  thaliVeg: "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Maharashtrian_Thali.jpg/960px-Maharashtrian_Thali.jpg",
   jainThali: "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop&q=80",
   dalBaatiChurma: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/DalBati.jpg/960px-DalBati.jpg",
   pithlaBhakri: "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Jhunka_Bhakri_Marathi_Food_by_Dr._Raju_Kasambe_DSCN0221_%288%29.jpg/960px-Jhunka_Bhakri_Marathi_Food_by_Dr._Raju_Kasambe_DSCN0221_%288%29.jpg",
