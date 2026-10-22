@@ -1,0 +1,14 @@
+{
+  "name": "messmate-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MessMate AI - Smart Mess Recommendation Platform",
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "dev:all": "powershell -ExecutionPolicy Bypass -Command \"Start-Process powershell -ArgumentList '-NoExit', '-Command', 'npm run dev:backend'; npm run dev:frontend\"",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "powershell -ExecutionPolicy Bypass -Command \"& backend\\venv\\Scripts\\uvicorn app.main:app --app-dir backend --reload --port 8000\"",
+    "build": "npm --prefix frontend run build",
+    "start": "npm --prefix frontend start"
+  }
+}
